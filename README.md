@@ -1,11 +1,15 @@
 # AgendaFacil-NAF
 # Sistema de Agendamento de Atendimentos
 
-Equipe de Desenvolvimento:
+## Equipe de Desenvolvimento:
 Davi de Mello de Oliveira
+
 Claudio Pereira da Costa
+
 Filipe Amaral Gomes Waldhelm
+
 Marcus Gabriel Seiblitz da Silva
+
 
 ## Situação Problema.
 Desenvolver uma interface de agendamento digital que permita aos usuários visualizar horários disponíveis, realizar agendamentos, receber confirmações e cancelar compromissos de forma prática e intuitiva. O sistema precisa ser fácil de usar e acessível, oferecendo uma experiência rápida e eficiente tanto para os usuários finais quanto para administradores.

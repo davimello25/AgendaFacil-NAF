@@ -2,14 +2,11 @@
 # Sistema de Agendamento de Atendimentos
 
 ## Equipe de Desenvolvimento:
-Davi de Mello de Oliveira
-
-Claudio Pereira da Costa
-
-Filipe Amaral Gomes Waldhelm
-
-Marcus Gabriel Seiblitz da Silva
-
+### Turma 2024.01 - Grupo 11
+- Davi de Mello de Oliveira
+- Claudio Pereira da Costa
+- Filipe Amaral Gomes Waldhelm
+- Marcus Gabriel Seiblitz da Silva
 
 ## Situação Problema.
 Desenvolver uma interface de agendamento digital que permita aos usuários visualizar horários disponíveis, realizar agendamentos, receber confirmações e cancelar compromissos de forma prática e intuitiva. O sistema precisa ser fácil de usar e acessível, oferecendo uma experiência rápida e eficiente tanto para os usuários finais quanto para administradores.
@@ -31,10 +28,10 @@ https://github.com/cpcosta-net-br/AgendaFacil-NAF
 # MVP Definido - Protótipo
 
 ## Sistema de agendamento digital com funcionalidades principais
-Exibição e seleção de horários disponíveis.
-Opções de confirmação e cancelamento de agendamentos.
-Perfil de usuário com visualização de agendamentos futuros.
-Painel de administração para gerenciamento de horários e visualização dos agendamentos feitos.
+- Exibição e seleção de horários disponíveis.
+- Opções de confirmação e cancelamento de agendamentos.
+- Perfil de usuário com visualização de agendamentos futuros.
+- Painel de administração para gerenciamento de horários e visualização dos agendamentos feitos.
 
 # Objetivos e Benefícios do Produto
 
@@ -43,22 +40,22 @@ Facilitar o processo de agendamento de atendimentos, eliminando burocracias e re
 Oferecer uma interface acessível e fácil de usar que proporcione uma experiência positiva para os usuários.
 
 ## Benefícios:
-Redução de conflitos e sobreposição de horários, melhorando a organização.
-Aumento da produtividade de instituições e profissionais que realizam agendamentos regularmente.
-Melhor experiência para os usuários finais, proporcionando um processo de agendamento rápido, claro e transparente.
+- Redução de conflitos e sobreposição de horários, melhorando a organização.
+- Aumento da produtividade de instituições e profissionais que realizam agendamentos regularmente.
+- Melhor experiência para os usuários finais, proporcionando um processo de agendamento rápido, claro e transparente.
 
 # Público-Alvo da Solução
 
 ## A plataforma foi criada para atender a:
-Instituição educacional UNIFESO oferecendo agendamento de reuniões e atendimentos para estudantes e professores.
-Profissionais autônomos, como mentores e consultores, que organizam sessões e atendimentos personalizados.
+- Instituição educacional UNIFESO oferecendo atendimentos no Núcleo de Apoio Fiscal e Contábil (NAF) para apoio na assistência fiscal e declaração de Imposto de Renda.
+- Usuários que buscam atendimento de apoio ao NAF como estudantes e profissionais autônomos, solicitem e organizem agendamento das sessões e atendimentos personalizados.
 
 ## Dores do Público-Alvo:
-Complexidade no agendamento manual: Os usuários têm dificuldade em gerenciar horários de forma estruturada e eficiente, especialmente em situações com alta demanda.
-Desorganização de horários: Conflitos e sobreposições de agendamentos são comuns.
-Dificuldade para cancelar ou reagendar: Processos manuais que exigem esforço adicional para alterações de horários.
-Necessidade de uma visão centralizada: Administradores precisam de um painel unificado para consultar e gerenciar todos os atendimentos.
+- Complexidade no agendamento manual: Os usuários têm dificuldade em gerenciar horários de forma estruturada e eficiente, especialmente em situações com alta demanda.
+- Desorganização de horários: Conflitos e sobreposições de agendamentos são comuns.
+- Dificuldade para cancelar ou reagendar: Processos manuais que exigem esforço adicional para alterações de horários.
+- Necessidade de uma visão centralizada: Administradores precisam de um painel unificado para consultar e gerenciar todos os atendimentos.
 
 # Informações Adicionais:
-Este projeto representa o MVP (Produto Mínimo Viável) da plataforma de agendamentos, com foco em funcionalidades essenciais para gerenciamento de horários e confirmação de atendimentos.
-A interface foi desenvolvida seguindo boas práticas de usabilidade e acessibilidade, para garantir que seja inclusiva e intuitiva. Funcionalidades adicionais poderão ser implementadas em versões futuras.
+- Este projeto representa o MVP (Produto Mínimo Viável) da plataforma de agendamentos, com foco em funcionalidades essenciais para gerenciamento de horários e confirmação de atendimentos.
+- A interface foi desenvolvida seguindo boas práticas de usabilidade e acessibilidade, para garantir que seja inclusiva e intuitiva. Funcionalidades adicionais poderão ser implementadas em versões futuras.
